@@ -1,0 +1,1 @@
+python /home/changshu/RE2-Bench/scripts/prompting/prompt_models.py --model o4-mini --task output_prediction

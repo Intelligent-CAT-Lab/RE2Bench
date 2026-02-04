@@ -1,0 +1,2 @@
+python /home/changshu/RE2-Bench/scripts/prompting/reprompt_models.py --model deepseek/deepseek-r1 --task input_prediction
+python /home/changshu/RE2-Bench/scripts/prompting/reprompt_models.py --model deepseek/deepseek-r1 --task output_prediction

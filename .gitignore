@@ -1,0 +1,7 @@
+__pycache__/
+**/process_swebench.py
+scripts/SRC
+**/.venv
+**/patch.diff
+rebuttal
+results/

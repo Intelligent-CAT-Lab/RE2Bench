@@ -1,0 +1,2 @@
+python /home/changshu/RE2-Bench/scripts/prompting/prompt_models.py --model gpt-4.1 --task input_prediction
+python /home/changshu/RE2-Bench/scripts/prompting/prompt_models.py --model gpt-4.1 --task output_prediction
