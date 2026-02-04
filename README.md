@@ -1,5 +1,5 @@
 # Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings
-Artifact for the paper [Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings]()
+Artifact for the paper [Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917)
 Authors are [Changshu Liu](https://topgunlcs98.github.io/profile/),Alireza Ghazanfari, [Yang Chen](https://yangc9.github.io), and [Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu).
 
 ## Installation
@@ -105,6 +105,14 @@ python correlation_analysis.py
 cd analysis
 python false_prediction_taxonomy.py
 ```
-
+## Please Cite us if you find RE2-Bench useful
+```
+@article{liu2025evaluating,
+  title={Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings},
+  author={Liu, Changshu and Ghazanfari, Alireza and Chen, Yang and Jabbarvand, Reyhaneh},
+  journal={arXiv preprint arXiv:2512.14917},
+  year={2025}
+}
+```
 ## Contact
 We look forward to hearing your feedback. Please contact [Changshu Liu](cl144@illinois.edu) for any questions or comments 🙏.
